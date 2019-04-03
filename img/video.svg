@@ -1,12 +1,1 @@
-<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <title>background</title>
-  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
- </g>
- <g>
-  <title>Layer 1</title>
-  <rect id="svg_1" width="32" height="32" fill="none"/>
-  <polygon transform="rotate(180 16.089282989501953,16.089284896850586) " stroke="#000000" stroke-opacity="0" fill="#ffffff" id="svg_2" points="32.08928453922272,6.089284539222717 32.08928453922272,26.089284539222717 8.089284539222717,26.089284539222717 8.089284539222717,20.089284539222717 0.08928453922271729,26.089284539222717 0.08928453922271729,6.089284539222717 8.089284539222717,12.089284539222717 8.089284539222717,6.089284539222717 "/>
- </g>
-</svg>
+<svg id="Warstwa_1" data-name="Warstwa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 320"><defs><style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#fff;}</style><clipPath id="clip-path" transform="translate(0 -96)"><rect class="cls-1" width="512" height="512"/></clipPath></defs><title>video</title><g class="cls-2"><polygon class="cls-3" points="0 0 0 320 384 320 384 224 512 320 512 0 384 96 384 0 0 0"/></g></svg>
